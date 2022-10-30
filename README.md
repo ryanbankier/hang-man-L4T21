@@ -10,10 +10,10 @@ Steps:
 - then type 'npm start' to run website locally
 
 # How to play
-   ## The Rules
-   Hangman is a classic word game in which you must guess the secret word one letter at a time.
-    - Guess one letter at a time to reveal the secret word. 
-    - Each incorrect guess adds another part to the hangman. You only get 10 incorrect guesses. 
+# The Rules
+Hangman is a classic word game in which you must guess the secret word one letter at a time.
+- Guess one letter at a time to reveal the secret word. 
+- Each incorrect guess adds another part to the hangman. You only get 10 incorrect guesses. 
     
 # Getting Started with Hang-man React App
 
