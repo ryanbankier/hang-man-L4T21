@@ -7,7 +7,7 @@ Steps:
 - Download these files into desired folder on your local machine
 - using command line cd to created directrory
 - In the command line interface/terminal type 'npm install' (Note, you should be in the same directory as the package.json file)
-- then type npm start to run website locally
+- then type 'npm start' to run website locally
 
 # Getting Started with Hang-man React App
 
