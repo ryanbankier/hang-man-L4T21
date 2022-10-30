@@ -9,6 +9,12 @@ Steps:
 - In the command line interface/terminal type 'npm install' (Note, you should be in the same directory as the package.json file)
 - then type 'npm start' to run website locally
 
+# How to play
+   ## The Rules
+   Hangman is a classic word game in which you must guess the secret word one letter at a time.
+    - Guess one letter at a time to reveal the secret word. 
+    - Each incorrect guess adds another part to the hangman. You only get 10 incorrect guesses. 
+    
 # Getting Started with Hang-man React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
