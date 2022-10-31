@@ -34,13 +34,24 @@ function Board (props){
     const drawState = props.drawState;
     const word = props.word;
    
-    return <>
+    if(word == ''){
+        return <>
+        <div className='board'>
+        <h2>Press Start to play</h2>
+        </div>
+        </>
+        
+    }
+    else{
+        return <>
         <div className='board'>
             <h1>{board}</h1>
             <Msg drawState={drawState} board={board} word={word}/>
         </div>
         
     </>
+    }
+    
 }
 
 export default Board;
